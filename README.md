@@ -1,2 +1,2 @@
 # Tmux Session
-CLI written in rust to crate tmux session.
+CLI written in rust to create tmux session.
